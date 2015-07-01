@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>D3 Page Template</title>
+        <script src="http://d3js.org/d3.v3.min.js"></script>
+        
+        <style>
+        	.axis path,
+        	.axis line{
+        		fill: none;
+        		stroke: black;
+        		shape-rendering: crispEdges;}
+        		
+        	.axis text{
+        		font-family: sans-serif;
+        		font-size: 12px;
+        		stroke: black;
+        		fill: black}
+        		
+        	.tooltip {
+        	font-family: Arial;
+        	font-weight: bold;
+        	font-size: 10px;
+        	padding: 5px;
+        	border-radius:2px;
+        	position: absolute;
+        	background: rgba(0, 0, 0, 0.7);
+        	color: #fff;
+        	pointer-events: none;}
+        		
+        </style>
+
+        
+    </head>
+    <body>
+        
+        
+<script type="text/javascript">
+
+// Setting SVG Margin, Width and Height
+var margin = {top: 20, right: 20, bottom: 50, left: 50};
+var width = 900 - margin.left - margin.right;
+var height = 500 - margin.top - margin.bottom;
+
+function draw(dataset){
+// X-Axis Scale
+var xScale = d3.scale.linear()
+			   .domain([0, d3.max(dataset, function(d){return d.votes;})])
+			   .range([0, width])
+
+// Y-Axis Scale			   
+var yScale = d3.scale.linear()
+			   .domain([0, d3.max(dataset, function(d){return d.rating;})])
+  		       .range([height, 0])
+  		       
+// X-Axis Properties
+var xAxis = d3.svg.axis()
+			  .scale(xScale) // What scale to use
+			  .orient('bottom') // Labels below the axis line
+			  .ticks(10) // Set # of ticks
+			  
+// Y-Axis Properties			  
+var yAxis = d3.svg.axis()
+			  .scale(yScale)
+			  .orient('left')
+			  .ticks(10)
+
+// SVG 
+var svg = d3.select('body')
+	    .append('svg')
+	    .attr('width', width + margin.left + margin.right)
+	    .attr('height', height + margin.top + margin.bottom)
+	    .append('g')
+	    .attr('transform', 'translate(' + margin.left + ',' + margin.top + ')')
+	    
+	    
+// Tooltip      
+var tooltip = d3.select("body")
+	.append("div")
+	.attr("class", "tooltip")
+	.style("opacity", 0)
+	
+// For Interactive plot
+var xValue = function(d){return d.votes}
+var yValue = function(d){return d.rating}
+			   
+// Scatter Plot
+var circles = svg.selectAll('circle')
+		 .data(dataset)
+ 		 .enter()
+		 .append('circle')
+		 .attr('cx', function(d){return xScale(d.votes);})
+		 .attr('cy', function(d){return yScale(d.rating);})
+		 .attr('r', 2.5)
+		 .attr('fill', '#41ab5d')
+		 .on("mouseover", function(d) {
+          tooltip.transition()
+               .duration(200)
+               .style("opacity", 0.9);
+          tooltip.html(d["title"] + "<br/> IMDB Rating: " + d.rating
+	        + "<br/> Votes: " + d.votes)
+               .style("left", (d3.event.pageX + 5) + "px")
+               .style("top", (d3.event.pageY - 28) + "px");
+      })
+      	 .on("mouseout", function(d) {
+          tooltip.transition()
+               .duration(500)
+               .style("opacity", 0);
+      });
+		 
+
+// X-Axis: Labels		  
+svg.append('g')
+   .attr('class', 'x axis') 
+   .attr('transform', 'translate(0,'+ height+')')
+   .call(xAxis)
+   .append('text')
+   .attr('class', 'label')
+   .attr('x', width)
+   .attr('y', -6)
+   .style('text-anchor', 'end')
+   .text('# of Votes')
+
+// Y-Axis: Labels   
+svg.append('g')
+   .attr('class', 'y axis')
+   .call(yAxis)
+   .append('text')
+   .attr('class', 'label')
+   .attr('transform', 'rotate(-90)')
+   .attr('dy', '0.9em')
+   .style('text-anchor', 'end')
+   .text('IMDB Rating')
+}   
+
+d3.csv("tv_show_data.csv", draw)
+   
+</script>
+    
+        
+    </body>
+</html>
+
+
+
+
+	

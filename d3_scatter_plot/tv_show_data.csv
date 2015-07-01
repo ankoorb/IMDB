@@ -1,0 +1,501 @@
+,title,year,rating,votes
+0,Game of Thrones,2011,9.5,744248
+1,Breaking Bad,2008,9.5,660263
+2,The Walking Dead,2010,8.7,498894
+3,The Big Bang Theory,2007,8.5,437338
+4,Dexter,2006,8.9,418329
+5,How I Met Your Mother,2005,8.5,377385
+6,Friends,1994,9.0,364764
+7,Sherlock,2010,9.3,364299
+8,Lost,2004,8.5,317507
+9,Prison Break,2005,8.6,258824
+10,House M.D.,2004,8.9,252764
+11,Supernatural,2005,8.7,231975
+12,True Detective,2014,9.3,222052
+13,Arrow,2012,8.2,212430
+14,The Simpsons,1989,8.9,210266
+15,Family Guy,1999,8.4,202356
+16,House of Cards,2013,9.1,202260
+17,Modern Family,2009,8.6,193432
+18,South Park,1997,8.8,192957
+19,True Blood,2008,8.0,190165
+20,The Vampire Diaries,2009,8.0,186251
+21,Homeland,2011,8.5,182512
+22,Suits,2011,8.8,181198
+23,Heroes,2006,7.7,181110
+24,Arrested Development,2003,9.1,180172
+25,Two and a Half Men,2003,7.2,172925
+26,Scrubs,2001,8.5,163417
+27,The Office,2005,8.8,161414
+28,Firefly,2002,9.2,155794
+29,Fringe,2008,8.5,154596
+30,American Horror Story,2011,8.4,152338
+31,The Sopranos,1999,9.3,151065
+32,The Wire,2002,9.4,150273
+33,Spartacus: War of the Damned,2010,8.7,146874
+34,Sons of Anarchy,2008,8.7,141801
+35,Once Upon a Time,2011,8.1,138697
+36,Seinfeld,1989,9.0,138157
+37,Grey&#x27;s Anatomy,2005,7.7,134198
+38,Californication,2007,8.4,128558
+39,24,2001,8.5,128179
+40,Orange Is the New Black,2013,8.4,124029
+41,Doctor Who,2005,8.9,122037
+42,Community,2009,8.6,121941
+43,Futurama,1999,8.7,119457
+44,Vikings,2013,8.6,117990
+45,Mad Men,2007,8.7,116898
+46,The Mentalist,2008,8.1,115423
+47,Boardwalk Empire,2010,8.7,115144
+48,New Girl,2011,7.8,114162
+49,Entourage,2004,8.6,114028
+50,Hannibal,2013,8.6,112764
+51,It&#x27;s Always Sunny in Philadelphia,2005,8.8,110543
+52,Glee,2009,6.8,109376
+53,The X-Files,1993,8.8,106544
+54,Battlestar Galactica,2004,8.8,104529
+55,Castle,2009,8.3,100008
+56,That &#x27;70s Show,1998,8.1,99676
+57,Avatar: The Last Airbender,2005,9.2,98650
+58,Chuck,2007,8.3,98091
+59,Gossip Girl,2007,7.4,97450
+60,Bones,2005,8.0,93694
+61,Person of Interest,2011,8.5,92933
+62,Rome,2005,8.9,92060
+63,Criminal Minds,2005,8.2,91454
+64,Pretty Little Liars,2010,7.9,90315
+65,Agents of S.H.I.E.L.D.,2013,7.5,90308
+66,Buffy the Vampire Slayer,1997,8.2,89389
+67,Downton Abbey,2010,8.8,89083
+68,Revenge,2011,8.0,88213
+69,Fargo,2014,9.0,87350
+70,Smallville,2001,7.5,86383
+71,Twin Peaks,1990,9.0,86045
+72,Parks and Recreation,2009,8.6,84689
+73,Desperate Housewives,2004,7.4,84023
+74,Malcolm in the Middle,2000,8.0,82752
+75,30 Rock,2006,8.3,82257
+76,White Collar,2009,8.3,78655
+77,Weeds,2005,8.1,78499
+78,Lie to Me,2009,8.0,78182
+79,Six Feet Under,2001,8.8,77100
+80,My Name Is Earl,2005,7.8,76094
+81,The Fresh Prince of Bel-Air,1990,8.0,75814
+82,Freaks and Geeks,1999,9.0,75414
+83,The IT Crowd,2006,8.6,74900
+84,Death Note,2006,9.0,72638
+85,Shameless,2011,8.7,71797
+86,NCIS,2003,8.0,71191
+87,Sex and the City,1998,6.9,69521
+88,The Flash,2014,8.2,69629
+89,Married with Children,1987,8.1,68981
+90,The Blacklist,2013,8.2,67974
+91,American Dad!,2005,7.6,66926
+92,Grimm,2011,7.8,66528
+93,Gotham,2014,8.1,66502
+94,The Newsroom,2012,8.7,65986
+95,Under the Dome,2013,7.0,65248
+96,Revolution,2012,6.7,65059
+97,Teen Wolf,2011,7.8,64624
+98,The Following,2013,7.5,64207
+99,Misfits,2009,8.4,63677
+100,Terra Nova,2011,6.8,63610
+101,Falling Skies,2011,7.3,62844
+102,CSI: Crime Scene Investigation,2000,7.8,61657
+103,Archer,2009,8.9,61481
+104,Psych,2006,8.4,60359
+105,Leyla and Mecnun,2011,9.2,60169
+106,2 Broke Girls,2011,7.0,58485
+107,The O.C.,2003,7.5,58180
+108,Top Gear,2002,9.0,57320
+109,The Killing,2011,8.2,55801
+110,Elementary,2012,8.0,55819
+111,Dragon Ball Z,1996,8.9,55676
+112,Curb Your Enthusiasm,1999,8.8,55658
+113,Oz,1997,8.9,55218
+114,The Office,2001,8.7,54905
+115,Better Call Saul,2015,9.2,55450
+116,Burn Notice,2007,8.0,54389
+117,Deadwood,2004,8.8,53195
+118,Stargate SG-1,1997,8.5,53171
+119,Justified,2010,8.7,52875
+120,The King of Queens,1998,7.4,52831
+121,The Legend of Korra,2012,8.7,52314
+122,Gilmore Girls,2000,8.0,51984
+123,Skins,2007,8.2,51965
+124,Star Trek: The Next Generation,1987,8.7,51684
+125,FlashForward,2009,7.6,51501
+126,Veronica Mars,2004,8.4,50936
+127,The Originals,2013,8.5,50731
+128,One Tree Hill,2003,7.7,50163
+129,Merlin,2008,7.9,49483
+130,Luther,2010,8.6,49014
+131,Frasier,1993,8.0,48749
+132,SpongeBob SquarePants,1999,8.1,48413
+133,Charmed,1998,7.1,48119
+134,Terminator: The Sarah Connor Chronicles,2008,7.7,48054
+135,The 100,2014,7.8,47572
+136,Da Vinci&#x27;s Demons,2013,8.1,47453
+137,The Shield,2002,8.8,46476
+138,Monk,2002,8.0,45927
+139,Louie,2010,8.7,45292
+140,Angel,1999,8.0,45213
+141,Fawlty Towers,1975,8.9,44945
+142,Nip/Tuck,2003,7.7,44794
+143,Law &#x26; Order: Special Victims Unit,1999,8.1,44597
+144,The Tudors,2007,8.1,44235
+145,Jericho,2006,8.0,44138
+146,The Inbetweeners,2008,8.5,44127
+147,Everybody Loves Raymond,1996,7.1,43963
+148,Mr. Bean,1990,8.6,43672
+149,Stargate: Atlantis,2004,8.1,43017
+150,Bates Motel,2013,8.2,42671
+151,V,2009,6.9,42499
+152,Orphan Black,2013,8.5,41523
+153,Girls,2012,7.4,41137
+154,Penny Dreadful,2014,8.2,39690
+155,Pushing Daisies,2007,8.5,39627
+156,CSI: Miami,2002,6.4,39423
+157,Batman: The Animated Series,1992,9.0,39403
+158,Scandal,2012,8.0,39256
+159,Sleepy Hollow,2013,7.7,39143
+160,The Good Wife,2009,8.3,38974
+161,Nikita,2010,7.7,38945
+162,Continuum,2012,7.8,38839
+163,Cowboy Bebop,1998,9.0,38823
+164,Star Trek,1966,8.4,38764
+165,Hawaii Five-0,2010,7.4,38662
+166,Brooklyn Nine-Nine,2013,8.3,38468
+167,Eastbound &#x26; Down,2009,8.3,38013
+168,Dollhouse,2009,7.8,36434
+169,ER,1994,7.7,36130
+170,The West Wing,1999,8.8,36095
+171,Touch,2012,7.4,35846
+172,Eureka,2006,7.9,35823
+173,Banshee,2013,8.4,35809
+174,Flight of the Conchords,2007,8.7,35732
+175,Attack on Titan,2013,9.0,35549
+176,Almost Human,2013,8.1,35428
+177,Friday Night Lights,2006,8.7,35190
+178,Spaced,1999,8.8,34614
+179,Monty Python&#x27;s Flying Circus,1969,9.0,34600
+180,The Secret Circle,2011,7.5,34548
+181,Adventure Time,2010,8.8,34506
+182,Twilight Zone,1959,9.0,34389
+183,MythBusters,2003,8.5,34354
+184,The Strain,2014,7.7,34361
+185,SGU Stargate Universe,2009,7.7,34312
+186,The Borgias,2011,8.0,34293
+187,Alias,2001,7.6,34160
+188,Full House,1987,6.6,34058
+189,Joey,2004,6.0,34041
+190,Extras,2005,8.5,34015
+191,3rd Rock from the Sun,1996,7.8,33522
+192,Alcatraz,2012,7.1,33287
+193,Warehouse 13,2009,7.6,33289
+194,The 4400,2004,7.4,33267
+195,Ghost Whisperer,2005,6.3,33194
+196,Cougar Town,2009,7.0,33196
+197,Ugly Betty,2006,6.5,32966
+198,The Americans,2013,8.2,32860
+199,Naruto: Shipp&#xFB;den,2007,8.5,32820
+200,Naruto,2002,7.9,32760
+201,Star Trek: Voyager,1995,7.7,32732
+202,Black Books,2000,8.6,32687
+203,Wilfred,2011,7.9,32684
+204,Dead Like Me,2003,8.2,32648
+205,CSI: NY,2004,7.0,32552
+206,Will &#x26; Grace,1998,7.2,32527
+207,King of the Hill,1997,7.2,32319
+208,90210,2008,6.0,32173
+209,Workaholics,2011,8.2,31815
+210,Awkward.,2011,7.8,31661
+211,Leverage,2008,7.9,31431
+212,Torchwood,2006,7.8,31228
+213,The League,2009,8.4,31039
+214,Hell on Wheels,2011,8.3,30865
+215,Robot Chicken,2005,7.8,30387
+216,Numb3rs,2005,6.9,30371
+217,Black Mirror,2011,8.8,30228
+218,Coupling,2000,8.7,30014
+219,Boston Legal,2004,8.5,29546
+220,Cheers,1982,7.8,29456
+221,Fullmetal Alchemist Brotherhood,2009,9.1,29473
+222,Saturday Night Live,1975,8.2,29335
+223,Hart of Dixie,2011,7.8,29170
+224,Black Sails,2014,8.0,29195
+225,Carniv&#xE0;le,2003,8.6,28922
+226,Boy Meets World,1993,8.1,28876
+227,Ray Donovan,2013,8.2,28889
+228,Blue Mountain State,2010,8.5,28320
+229,NCIS: Los Angeles,2009,6.8,28234
+230,Xena: Warrior Princess,1995,6.7,28070
+231,Star Trek: Deep Space Nine,1993,7.9,27979
+232,Fullmetal Alchemist,2003,8.7,27984
+233,Raising Hope,2010,8.0,27861
+234,Peep Show,2003,8.7,27846
+235,Life,2007,8.3,27744
+236,M*A*S*H,1972,8.5,27513
+237,Happy Endings,2011,7.7,27393
+238,One Piece,1999,8.9,27289
+239,Home Improvement,1991,7.2,27131
+240,The Cleveland Show,2009,5.6,26797
+241,The Middle,2009,7.4,26754
+242,Bleach,2004,7.9,26726
+243,Legend of the Seeker,2008,7.7,26680
+244,Dragon Ball Z,1989,8.9,26544
+245,How to Get Away with Murder,2014,8.3,26531
+246,Defiance,2013,7.0,26456
+247,Chappelle&#x27;s Show,2003,8.8,26264
+248,Bored to Death,2009,7.9,25949
+249,According to Jim,2001,6.4,25844
+250,Bob&#x27;s Burgers,2011,8.1,25780
+251,Hannah Montana,2006,4.6,25661
+252,Star Trek: Enterprise,2001,7.5,25577
+253,Broadchurch,2013,8.4,25385
+254,Dragon Ball,1986,8.7,25300
+255,Beauty and the Beast,2012,7.3,24867
+256,The Nanny,1993,6.8,24854
+257,Everybody Hates Chris,2005,7.3,24791
+258,Haven,2010,7.6,24712
+259,Dawson&#x27;s Creek,1998,6.5,24517
+260,Anger Management,2012,6.7,24427
+261,Roseanne,1988,7.0,24346
+262,Suburgatory,2011,7.3,24339
+263,Silicon Valley,2014,8.4,24151
+264,The Wonder Years,1988,8.4,24053
+265,Dexter&#x27;s Laboratory,1996,8.0,24047
+266,Forever,2014,8.3,23828
+267,Rules of Engagement,2007,7.3,23721
+268,Blackadder Goes Forth,1989,8.9,23634
+269,The Fall,2013,8.3,23671
+270,The Daily Show with Jon Stewart,1996,8.9,23537
+271,Outlander,2014,8.7,23556
+272,The Tomorrow People,2013,7.3,23445
+273,Whose Line Is It Anyway?,1998,8.7,23421
+274,MacGyver,1985,7.7,23407
+275,Hemlock Grove,2013,7.4,23379
+276,Only Fools and Horses....,1981,8.9,23314
+277,Farscape,1999,8.4,23061
+278,The Colbert Report,2005,8.7,23043
+279,Kyle XY,2006,7.6,22931
+280,Constantine,2014,7.6,22918
+281,Saved by the Bell,1989,7.0,22764
+282,Undercover,2011,8.9,22680
+283,Dark Angel,2000,7.4,22611
+284,The Cosby Show,1984,7.5,22519
+285,Law &#x26; Order,1990,7.7,22385
+286,The Event,2010,7.0,22375
+287,Damages,2007,8.1,22347
+288,Drake &#x26; Josh,2004,7.5,22288
+289,Party Down,2009,8.3,22092
+290,The Black Adder,1983,8.3,22046
+291,The A-Team,1983,7.6,22017
+292,Dracula,2013,7.4,21838
+293,Las Vegas,2003,7.5,21771
+294,Episodes,2011,7.8,21568
+295,Masters of Sex,2013,8.1,21482
+296,"Sabrina, the Teenage Witch",1996,6.5,21317
+297,Don&#x27;t Trust the B---- in Apartment 23,2012,7.2,21289
+298,Rescue Me,2004,8.4,21236
+299,Dharma &#x26; Greg,1997,6.3,21217
+300,Alphas,2011,7.3,21164
+301,Life on Mars,2006,8.4,21145
+302,Star Wars: The Clone Wars,2008,7.9,20994
+303,Parenthood,2010,8.1,20931
+304,Black-Adder II,1986,8.8,20909
+305,The Leftovers,2014,7.7,20739
+306,Ally McBeal,1997,6.8,20709
+307,Father Ted,1995,8.7,20702
+308,"Beverly Hills, 90210",1990,6.2,20684
+309,Greek,2007,7.5,20586
+310,Neon Genesis Evangelion,1995,8.6,20589
+311,An Idiot Abroad,2010,8.3,20535
+312,Peaky Blinders,2013,8.8,20460
+313,Covert Affairs,2010,7.4,20414
+314,Better Off Ted,2009,8.2,20405
+315,ALF,1986,7.3,20399
+316,Moonlight,2007,7.7,20395
+317,The Suite Life of Zack and Cody,2005,6.1,20382
+318,iCarly,2007,6.5,20350
+319,Reign,2013,7.7,20352
+320,Babylon 5,1994,8.2,20310
+321,Harper&#x27;s Island,2009,7.5,20137
+322,Samurai Jack,2001,8.3,20107
+323,Marco Polo,2014,8.2,20137
+324,Doctor Who,1963,8.6,20004
+325,Jersey Shore,2009,3.5,19895
+326,Johnny Bravo,1997,7.4,19875
+327,Black Adder the Third,1987,8.8,19783
+328,Red Dwarf,1988,8.6,19765
+329,7th Heaven,1996,5.0,19742
+330,Being Human,2011,7.5,19682
+331,Trailer Park Boys,2001,8.6,19562
+332,The Flintstones,1960,7.6,19527
+333,Reaper,2007,7.9,19513
+334,Agent Carter,2015,8.3,19602
+335,Justice League,2001,8.6,19466
+336,Rugrats,1990,7.6,19432
+337,Medium,2005,6.9,19428
+338,Spin City,1996,7.4,19430
+339,Roswell,1999,7.5,19421
+340,Rizzoli &#x26; Isles,2010,7.5,19347
+341,Lost Girl,2010,7.8,19336
+342,Dragon Ball,1986,8.8,19250
+343,Studio 60 on the Sunset Strip,2006,8.3,19226
+344,Teenage Mutant Ninja Turtles,1987,8.0,19211
+345,The Boondocks,2005,8.4,19109
+346,Rick and Morty,2013,9.2,19051
+347,Courage the Cowardly Dog,1999,8.3,18989
+348,The Golden Girls,1985,7.8,18926
+349,Pinky and the Brain,1995,8.0,18903
+350,8 Simple Rules,2002,7.1,18882
+351,Caprica,2009,7.1,18844
+352,Hercules: The Legendary Journeys,1995,6.5,18843
+353,Hey Arnold!,1996,7.7,18733
+354,Being Human,2008,7.8,18731
+355,Helix,2014,7.0,18694
+356,Pok&#xE9;mon,1998,7.3,18602
+357,American Idol,2002,4.2,18579
+358,Top Gear,1978,8.6,18487
+359,Southland,2009,8.5,18483
+360,Camelot,2011,6.6,18392
+361,Agatha Christie&#x27;s Poirot,1989,8.6,18367
+362,Hustle,2004,8.2,18261
+363,The Carrie Diaries,2013,7.1,18260
+364,The Mindy Project,2012,7.4,18248
+365,The Last Ship,2014,7.3,18247
+366,Last Resort,2012,7.5,18216
+367,Quantum Leap,1989,8.1,18167
+368,My Wife and Kids,2001,6.8,18145
+369,Man vs. Wild,2006,8.3,18078
+370,Beavis and Butt-Head,1993,7.6,17956
+371,The Powerpuff Girls,1998,7.2,17925
+372,The L Word,2004,7.6,17902
+373,Brothers &#x26; Sisters,2006,7.3,17787
+374,Awake,2012,7.9,17779
+375,The Bridge,2011,8.6,17610
+376,Ringer,2011,6.9,17595
+377,Knight Rider,1982,6.9,17536
+378,X-Men,1992,8.5,17488
+379,Chicago Fire,2012,7.8,17399
+380,Go On,2012,7.6,17361
+381,House of Lies,2012,7.4,17356
+382,Wizards of Waverly Place,2007,6.7,17336
+383,Hung,2009,7.2,17328
+384,DuckTales,1987,8.2,17179
+385,Blue Bloods,2010,7.4,17157
+386,Samurai Champloo,2004,8.7,17007
+387,Daria,1997,8.0,16981
+388,Phineas and Ferb,2007,8.0,16973
+389,Aqua Teen Hunger Force,2000,7.7,16960
+390,Cold Case,2003,7.6,16940
+391,The Closer,2005,7.5,16847
+392,"Scooby Doo, Where Are You!",1969,7.9,16808
+393,Erufen r&#xEE;to,2004,8.3,16784
+394,Big Love,2006,7.6,16755
+395,Veep,2012,8.0,16611
+396,United States of Tara,2009,7.9,16596
+397,Baywatch,1989,5.0,16562
+398,The Fairly OddParents,2001,7.3,16558
+399,The Venture Bros.,2003,8.6,16416
+400,Private Practice,2007,6.6,16407
+401,Columbo,1971,8.2,16382
+402,Nurse Jackie,2009,7.6,16369
+403,Strike Back,2010,8.3,16361
+404,Utopia,2013,8.6,16195
+405,"Ed, Edd, &#x27;n&#x27; Eddy",1999,7.4,16163
+406,Pan Am,2011,6.9,16102
+407,Switched at Birth,2011,7.9,16038
+408,Family Matters,1989,6.5,15955
+409,Law &#x26; Order: Criminal Intent,2001,7.3,15933
+410,Scorpion,2014,7.2,15819
+411,The Secret Life of the American Teenager,2008,5.0,15600
+412,Survivor,2000,6.8,15583
+413,QI,2003,8.9,15478
+414,Lilyhammer,2012,8.1,15437
+415,Jackass,2000,7.2,15301
+416,Witches of East End,2013,7.7,15303
+417,The Unit,2006,8.1,15251
+418,Keeping Up with the Kardashians,2007,2.8,15195
+419,The Lying Game,2011,7.4,14936
+420,Little Britain,2003,7.7,14794
+421,666 Park Avenue,2012,6.9,14752
+422,Code Geass: Lelouch of the Rebellion,2006,8.8,14610
+423,Human Target,2010,7.8,14532
+424,Batman Beyond,1999,8.1,14513
+425,My Little Pony: Friendship Is Magic,2010,7.8,14503
+426,Miami Vice,1984,7.5,14467
+427,Royal Pains,2009,7.1,14441
+428,Drawn Together,2004,7.0,14436
+429,&#x27;Allo &#x27;Allo!,1982,8.4,14409
+430,America&#x27;s Next Top Model,2003,5.5,14372
+431,Star Wars: Clone Wars,2003,7.6,14334
+432,The Transformers,1984,8.0,14323
+433,Mystery Science Theater 3000,1988,8.8,14299
+434,No Ordinary Family,2010,6.9,14258
+435,Dragon Ball GT,1996,7.2,14160
+436,Boss,2011,8.1,14147
+437,Mighty Morphin Power Rangers,1993,6.4,14127
+438,The Mighty Boosh,2003,8.4,14126
+439,Behzat &#xC7;.: Bir Ankara Polisiyesi,2010,8.8,14106
+440,The River,2012,6.8,14082
+441,Nashville,2012,7.7,14054
+442,Smash,2012,7.6,13947
+443,Extant,2014,6.8,13943
+444,Digimon: Digital Monsters,1999,6.9,13931
+445,Conan,2010,8.2,13789
+446,Derek,2012,8.2,13759
+447,Mike &#x26; Molly,2010,6.5,13693
+448,Undeclared,2001,8.0,13563
+449,Lois &#x26; Clark: The New Adventures of Superman,1993,6.8,13522
+450,Mad About You,1992,6.6,13505
+451,Perception,2012,7.5,13500
+452,The Knick,2014,8.6,13493
+453,My So-Called Life,1994,8.4,13457
+454,Hell&#x27;s Kitchen,2005,7.0,13391
+455,The Bridge,2013,7.7,13349
+456,The Ren &#x26; Stimpy Show,1991,7.6,13334
+457,Without a Trace,2002,6.9,13335
+458,Queer as Folk,2000,8.3,13301
+459,Tales from the Crypt,1989,8.0,13118
+460,Happy Tree Friends,2006,7.1,13109
+461,Flashpoint,2008,7.7,13093
+462,Intelligence,2014,7.0,13098
+463,Animaniacs,1993,7.9,13083
+464,Sanctuary,2008,7.4,13042
+465,Drop Dead Diva,2009,7.4,12985
+466,"Magnum, P.I.",1980,7.5,12952
+467,Dominion,2014,6.8,12920
+468,I Love Lucy,1951,8.5,12848
+469,Midsomer Murders,1997,7.7,12817
+470,Rocko&#x27;s Modern Life,1993,8.1,12781
+471,Young Justice,2010,8.7,12763
+472,Invader ZIM,2001,8.4,12672
+473,"Two Guys, a Girl and a Pizza Place",1998,7.4,12663
+474,Jackie Chan Adventures,2000,7.3,12616
+475,The Killing,2007,8.4,12574
+476,Teen Titans,2003,7.4,12509
+477,Regular Show,2009,8.5,12462
+478,How to Make It in America,2010,8.0,12429
+479,The Black Donnellys,2007,8.2,12378
+480,JAG,1995,6.5,12313
+481,Absolutely Fabulous,1992,8.1,12155
+482,Just Shoot Me!,1997,6.9,12110
+483,Recess,1997,8.0,12072
+484,In Treatment,2008,8.3,12039
+485,Lizzie McGuire,2001,6.5,11951
+486,Rookie Blue,2010,7.7,11925
+487,Unbreakable Kimmy Schmidt,2015,8.3,12065
+488,Resurrection,2013,7.5,11901
+489,Longmire,2012,8.1,11880
+490,Robin Hood,2006,7.6,11871
+491,The Pretender,1996,7.5,11835
+492,Doug,1991,7.6,11811
+493,Breakout Kings,2011,7.3,11774
+494,The Returned,2012,8.3,11671
+495,Spider-Man,1994,8.3,11620
+496,Reno 911!,2003,8.0,11591
+497,Melissa &#x26; Joey,2010,7.1,11587
+498,Grounded for Life,2001,7.5,11573
+499,Sliders,1995,7.5,11568
